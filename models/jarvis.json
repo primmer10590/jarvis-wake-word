@@ -1,0 +1,16 @@
+{
+  "type": "micro",
+  "wake_word": "jarvis",
+  "author": "paulrimmer",
+  "website": "",
+  "version": 2,
+  "model": "jarvis.tflite",
+  "trained_languages": ["en"],
+  "micro": {
+    "probability_cutoff": 0.7,
+    "sliding_window_size": 3,
+    "feature_step_size": 10,
+    "tensor_arena_size": 45000,
+    "minimum_esphome_version": "2024.12.0"
+  }
+}
