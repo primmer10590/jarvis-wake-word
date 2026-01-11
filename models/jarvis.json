@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "jarvis",
   "author": "paulrimmer",
-  "website": "",
+  "website": "https://github.com/primmer10590/jarvis-wake-word",
   "version": 2,
   "model": "https://github.com/primmer10590/jarvis-wake-word/raw/main/models/jarvis.tflite",
   "trained_languages": ["en"],
