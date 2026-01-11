@@ -4,7 +4,7 @@
   "author": "paulrimmer",
   "website": "",
   "version": 2,
-  "model": "jarvis.tflite",
+  "model": "https://github.com/primmer10590/jarvis-wake-word/raw/main/models/jarvis.tflite",
   "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.7,
